@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Kartik Virendra Rajput<br>Third Year Artificial Intelligence and Data Science Student at Vishwakarma Institute of Technology, Pune
+Hi, I am Kartik Virendra Rajput<br>Third Year B.Tech. Artificial Intelligence and Data Science Student at Vishwakarma Institute of Technology, Pune
 
 
 ## 🌐 Socials:
