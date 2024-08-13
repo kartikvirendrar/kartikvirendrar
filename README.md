@@ -1,6 +1,11 @@
 # 💫 About Me:
-Hello, I am Kartik Virendra Rajput<br>Final Year B.Tech. Artificial Intelligence and Data Science Student at Vishwakarma Institute of Technology, Pune
+👋 Hi, I'm Kartik Virendra Rajput
 
+🎓 B.Tech. in Artificial Intelligence and Data Science from Vishwakarma Institute of Technology, Pune
+
+💻 Full Stack Developer at <a href="https://ai4bharat.iitm.ac.in">AI4BHĀRAT</a>
+
+Passionate about building scalable web applications and exploring the intersections of AI and software development. 
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-ea4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:kartikvirendrarajput@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikvirendrarajput/) [![LeetCode user kartikvirendrar](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=LeetCode&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fkartikvirendrar&logo=leetcode&logoColor=yellow)](https://leetcode.com/kartikvirendrar/)
