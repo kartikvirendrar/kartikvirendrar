@@ -1,10 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Kartik Virendra Rajput
 
-🎓 B.Tech. in Artificial Intelligence and Data Science from Vishwakarma Institute of Technology, Pune
-
-💻 Full Stack Developer at <a href="https://ai4bharat.iitm.ac.in">AI4BHĀRAT</a>
-
 Passionate about building scalable web applications and exploring the intersections of AI and software development. 
 
 ## 🌐 Socials:
